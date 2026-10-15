@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArielAbayev
-- 👀 I’m interested in Full Stack web development
-- 🌱 I’m currently learning graphQL and angular 14
+- 👀 I’m interested in AI Engineering
+- 🌱 I’m currently learning Agentic AI
 
 <!---
 ArielAbayev/ArielAbayev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
